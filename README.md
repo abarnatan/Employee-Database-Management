@@ -41,3 +41,8 @@ Use the information you have to create a table schema for each of the six CSV fi
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 ![image](https://user-images.githubusercontent.com/70718724/121292938-9fb92b80-c89f-11eb-829e-47dc6abecd87.png)
+
+### Contact:
+- Alejandro Barnatan
+- ale.barn19@gmail.com
+- Cell: 503.867.3455
